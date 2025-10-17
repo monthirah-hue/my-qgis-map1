@@ -1,0 +1,94 @@
+2025-10-06 10:54:59,382 --- version: Python-client/0.8.0 Plugin/2023.4.1 QGIS/3.16.16 (Windows/10)
+2025-10-06 10:54:59,382 --- start push Hala madrid/HALA MADRID
+2025-10-06 10:55:00,617 got project info: local version v0 / server version v0
+2025-10-06 10:55:01,958 checkpoint - going to add it in C:\Users\ASUS\Desktop\QGIS GU  (1)\ถังขยะ.gpkg
+2025-10-06 10:55:01,969 checkpoint - return value: (0, 0, 0)
+2025-10-06 10:55:01,980 checkpoint - new size 110592 checksum a2aba28c3cd5fe41e220cdd98dd1f308387b922b
+2025-10-06 10:55:01,981 checkpoint - going to add it in C:\Users\ASUS\Desktop\QGIS GU  (1)\หลุม.gpkg
+2025-10-06 10:55:01,985 checkpoint - return value: (0, 0, 0)
+2025-10-06 10:55:01,996 checkpoint - new size 98304 checksum e35754fa88b65696e57da0d8e63af49861a5788a
+2025-10-06 10:55:01,997 checkpoint - going to add it in C:\Users\ASUS\Desktop\QGIS GU  (1)\เนิน.gpkg
+2025-10-06 10:55:02,000 checkpoint - return value: (0, 0, 0)
+2025-10-06 10:55:02,011 checkpoint - new size 98304 checksum f5337a05e9c09a4f96a6488aa87523c49262606e
+2025-10-06 10:55:02,013 checkpoint - going to add it in C:\Users\ASUS\Desktop\QGIS GU  (1)\เสาไฟ 2.gpkg
+2025-10-06 10:55:02,018 checkpoint - return value: (0, 0, 0)
+2025-10-06 10:55:02,032 checkpoint - new size 98304 checksum 8a2926949a753cde09e54ede1635b27aa64a155e
+2025-10-06 10:55:02,034 checkpoint - going to add it in C:\Users\ASUS\Desktop\QGIS GU  (1)\เสาไฟ.gpkg
+2025-10-06 10:55:02,039 checkpoint - return value: (0, 0, 0)
+2025-10-06 10:55:02,053 checkpoint - new size 98304 checksum ec64406d28af082fbc7254d856b61a28bfe42f1f
+2025-10-06 10:55:02,059 push changes:
+{'added': [{'checksum': '96e2c8f3a1396f84114785b2fd0c90e57ad8c6f1',
+            'chunks': ['902bbb97-0e3d-4903-9780-dbffaf4da758'],
+            'mtime': datetime.datetime(2025, 10, 6, 10, 54, 57, 829170, tzinfo=tzlocal()),
+            'path': '14 กย 68.qgz',
+            'size': 15200},
+           {'checksum': '47d49cdd32b4e3110b9f716007120de53cf33b15',
+            'chunks': ['fc2c063f-f7bb-444b-9afc-b9e30c44f427'],
+            'mtime': datetime.datetime(2025, 7, 21, 11, 25, 0, 657382, tzinfo=tzlocal()),
+            'path': 'QGIS GU  (1).qgz',
+            'size': 18555},
+           {'checksum': '7d6faccb14577ef6ba85272a81dbf8f2b7b0139d',
+            'chunks': ['4567f58f-0083-41ba-9aeb-56d316275159'],
+            'mtime': datetime.datetime(2025, 9, 1, 11, 42, 27, 740617, tzinfo=tzlocal()),
+            'path': 'QGIS GU  (2).qgz',
+            'size': 8348},
+           {'checksum': 'd519b74cb6c2da08af009e92244818d0bac6d0a3',
+            'chunks': ['b8546b1d-ef0f-494f-a843-068c1bc0a6be'],
+            'mtime': datetime.datetime(2025, 9, 8, 10, 48, 36, 914522, tzinfo=tzlocal()),
+            'path': 'QGIS GU  (3).qgz',
+            'size': 8177},
+           {'checksum': 'a2aba28c3cd5fe41e220cdd98dd1f308387b922b',
+            'chunks': ['795ef624-f7aa-4559-9eed-9f8e43be288e'],
+            'mtime': datetime.datetime(2025, 10, 6, 10, 23, 51, 625781, tzinfo=tzlocal()),
+            'path': 'ถังขยะ.gpkg',
+            'size': 110592},
+           {'checksum': 'e35754fa88b65696e57da0d8e63af49861a5788a',
+            'chunks': ['456e9ed9-07e3-469b-8141-e58a82b30ca1'],
+            'mtime': datetime.datetime(2025, 10, 6, 10, 23, 51, 657898, tzinfo=tzlocal()),
+            'path': 'หลุม.gpkg',
+            'size': 98304},
+           {'checksum': 'f5337a05e9c09a4f96a6488aa87523c49262606e',
+            'chunks': ['88e76f97-8753-4109-ba6f-ac636831ccc2'],
+            'mtime': datetime.datetime(2025, 10, 6, 10, 23, 51, 684160, tzinfo=tzlocal()),
+            'path': 'เนิน.gpkg',
+            'size': 98304},
+           {'checksum': '8a2926949a753cde09e54ede1635b27aa64a155e',
+            'chunks': ['76fcd307-3935-4dc1-9c40-10d617c837e6'],
+            'mtime': datetime.datetime(2025, 10, 6, 10, 23, 51, 758978, tzinfo=tzlocal()),
+            'path': 'เสาไฟ 2.gpkg',
+            'size': 98304},
+           {'checksum': 'ec64406d28af082fbc7254d856b61a28bfe42f1f',
+            'chunks': ['b768330e-763c-4aba-9c99-bc356e4491ea'],
+            'mtime': datetime.datetime(2025, 10, 6, 10, 23, 51, 729508, tzinfo=tzlocal()),
+            'path': 'เสาไฟ.gpkg',
+            'size': 98304}],
+ 'removed': [],
+ 'renamed': [],
+ 'updated': []}
+2025-10-06 10:55:02,064 Making a temporary copy (full upload): ถังขยะ.gpkg
+2025-10-06 10:55:02,079 Making a temporary copy (full upload): หลุม.gpkg
+2025-10-06 10:55:02,090 Making a temporary copy (full upload): เนิน.gpkg
+2025-10-06 10:55:02,099 Making a temporary copy (full upload): เสาไฟ 2.gpkg
+2025-10-06 10:55:02,108 Making a temporary copy (full upload): เสาไฟ.gpkg
+2025-10-06 10:55:03,120 got transaction ID 094cd9a6-f233-4656-b0b5-5edb16dbccd6
+2025-10-06 10:55:03,124 will upload 9 items with total size 554088
+2025-10-06 10:55:03,135 Uploading C:\Users\ASUS\Desktop\QGIS GU  (1)\14 กย 68.qgz part=0
+2025-10-06 10:55:03,146 Uploading C:\Users\ASUS\Desktop\QGIS GU  (1)\QGIS GU  (3).qgz part=0
+2025-10-06 10:55:03,146 Uploading C:\Users\ASUS\Desktop\QGIS GU  (1)\QGIS GU  (1).qgz part=0
+2025-10-06 10:55:03,153 Uploading C:\Users\ASUS\Desktop\QGIS GU  (1)\QGIS GU  (2).qgz part=0
+2025-10-06 10:55:04,271 Upload finished: C:\Users\ASUS\Desktop\QGIS GU  (1)\QGIS GU  (3).qgz
+2025-10-06 10:55:04,279 Upload finished: C:\Users\ASUS\Desktop\QGIS GU  (1)\QGIS GU  (2).qgz
+2025-10-06 10:55:04,285 Uploading C:\Users\ASUS\AppData\Local\Temp\mergin-py-client-i9ix3o4h\ถังขยะ.gpkg part=0
+2025-10-06 10:55:04,297 Uploading C:\Users\ASUS\AppData\Local\Temp\mergin-py-client-i9ix3o4h\หลุม.gpkg part=0
+2025-10-06 10:55:04,438 Upload finished: C:\Users\ASUS\Desktop\QGIS GU  (1)\14 กย 68.qgz
+2025-10-06 10:55:04,442 Uploading C:\Users\ASUS\AppData\Local\Temp\mergin-py-client-i9ix3o4h\เนิน.gpkg part=0
+2025-10-06 10:55:04,466 Upload finished: C:\Users\ASUS\Desktop\QGIS GU  (1)\QGIS GU  (1).qgz
+2025-10-06 10:55:04,470 Uploading C:\Users\ASUS\AppData\Local\Temp\mergin-py-client-i9ix3o4h\เสาไฟ 2.gpkg part=0
+2025-10-06 10:55:06,086 Upload finished: C:\Users\ASUS\AppData\Local\Temp\mergin-py-client-i9ix3o4h\หลุม.gpkg
+2025-10-06 10:55:06,100 Uploading C:\Users\ASUS\AppData\Local\Temp\mergin-py-client-i9ix3o4h\เสาไฟ.gpkg part=0
+2025-10-06 10:55:06,100 Upload finished: C:\Users\ASUS\AppData\Local\Temp\mergin-py-client-i9ix3o4h\ถังขยะ.gpkg
+2025-10-06 10:55:06,105 Upload finished: C:\Users\ASUS\AppData\Local\Temp\mergin-py-client-i9ix3o4h\เนิน.gpkg
+2025-10-06 10:55:06,158 Upload finished: C:\Users\ASUS\AppData\Local\Temp\mergin-py-client-i9ix3o4h\เสาไฟ 2.gpkg
+2025-10-06 10:55:08,026 Upload finished: C:\Users\ASUS\AppData\Local\Temp\mergin-py-client-i9ix3o4h\เสาไฟ.gpkg
+2025-10-06 10:55:08,048 Finishing transaction 094cd9a6-f233-4656-b0b5-5edb16dbccd6
+2025-10-06 10:55:10,205 --- push finished - new project version v1

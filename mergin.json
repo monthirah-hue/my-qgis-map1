@@ -1,0 +1,61 @@
+{
+  "name": "Hala madrid/HALA MADRID",
+  "version": "v1",
+  "project_id": "bb56a624-8c00-42a2-99c3-ff63afc2a81d",
+  "files": [
+    {
+      "checksum": "96e2c8f3a1396f84114785b2fd0c90e57ad8c6f1",
+      "mtime": "2025-10-06T03:55:09Z",
+      "path": "14 \u0e01\u0e22 68.qgz",
+      "size": 15200
+    },
+    {
+      "checksum": "47d49cdd32b4e3110b9f716007120de53cf33b15",
+      "mtime": "2025-10-06T03:55:09Z",
+      "path": "QGIS GU  (1).qgz",
+      "size": 18555
+    },
+    {
+      "checksum": "7d6faccb14577ef6ba85272a81dbf8f2b7b0139d",
+      "mtime": "2025-10-06T03:55:09Z",
+      "path": "QGIS GU  (2).qgz",
+      "size": 8348
+    },
+    {
+      "checksum": "d519b74cb6c2da08af009e92244818d0bac6d0a3",
+      "mtime": "2025-10-06T03:55:09Z",
+      "path": "QGIS GU  (3).qgz",
+      "size": 8177
+    },
+    {
+      "checksum": "6a96c9e149473351e02eb9085cdaff287567bb93",
+      "mtime": "2025-10-06T03:55:09Z",
+      "path": "\u0e16\u0e31\u0e07\u0e02\u0e22\u0e30.gpkg",
+      "size": 110592
+    },
+    {
+      "checksum": "f2f94a012e5b4cfb5e52b47090a00120d3d41056",
+      "mtime": "2025-10-06T03:55:09Z",
+      "path": "\u0e2b\u0e25\u0e38\u0e21.gpkg",
+      "size": 98304
+    },
+    {
+      "checksum": "c4aa35594cd6ea05fcc75f0b9a3c20aade337fed",
+      "mtime": "2025-10-06T03:55:09Z",
+      "path": "\u0e40\u0e19\u0e34\u0e19.gpkg",
+      "size": 98304
+    },
+    {
+      "checksum": "ab47bb6f9b10fba2d21de8e1d978f962e41b2d3b",
+      "mtime": "2025-10-06T03:55:09Z",
+      "path": "\u0e40\u0e2a\u0e32\u0e44\u0e1f 2.gpkg",
+      "size": 98304
+    },
+    {
+      "checksum": "b01896bdf9fbfbe0721fd276482f6c0ad8960f08",
+      "mtime": "2025-10-06T03:55:09Z",
+      "path": "\u0e40\u0e2a\u0e32\u0e44\u0e1f.gpkg",
+      "size": 98304
+    }
+  ]
+}
